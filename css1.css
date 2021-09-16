@@ -1,0 +1,63 @@
+body {
+  background-image: url(bg.jfif);
+  text-align: center;
+  }
+
+.headers {
+  font-weight: bold;
+  letter-spacing: 10px;
+  font-style: italic;
+  text-decoration:overline underline;
+}
+
+.h1 {
+  color: Crimson;
+}
+
+.h2 {
+  color: darkslategrey;
+}
+
+.h3 {
+  color: royalblue;
+}
+
+p {
+  color: maroon;
+  font-size: 17px;
+  font-family: 'Times New Roman', Arial, monospace;
+}
+
+hr {
+border: 8px groove pink;
+}
+
+div.main {
+  background-image: url(div_bg.jpg);
+  padding: 40px;
+  border: 10px groove pink;
+  margin: 20px;
+  font-weight: bold;
+}
+
+table {
+ margin: auto;
+ background-image: url(div_bg.jpg);
+}
+
+
+td{
+  padding: 10px;
+  spacing: 10px;
+  font-family: 'Times New Roman', Arial, monospace;
+  font-weight:500;
+  border: 5px groove pink;
+}
+
+th {
+  padding: 10px;
+  spacing: 10px;
+  font-family: 'Times New Roman', Arial, monospace;
+  font-weight:bold;
+  border: 5px groove pink;
+}
